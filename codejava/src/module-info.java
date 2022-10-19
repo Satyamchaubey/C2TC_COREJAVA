@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author john
+ *
+ */
+module codejava {
+}
