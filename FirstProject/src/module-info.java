@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author john
- *
- */
-module FirstProject {
-}
